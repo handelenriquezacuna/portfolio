@@ -1,4 +1,4 @@
-# portfolio
+# PORTFOLIO
 Business_Intelligence/Data_Analytics/Automation_Projects
 
 # AWS BI SOLUTIONS
